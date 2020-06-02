@@ -1,0 +1,25 @@
+#navbarDropdown:hover{
+    color: green;
+}
+
+#navbarDropdown{
+    color: white;
+}
+
+#nav-item:hover{
+    color: green;
+    
+}
+
+#nav-item{
+    color: white;
+}
+
+body{
+    background : white;
+}
+
+.navbar-brand{
+    font-weight:100;
+    font-size:2rem;
+}
