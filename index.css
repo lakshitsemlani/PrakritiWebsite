@@ -1,18 +1,27 @@
+header{
+text-align: left;
+background-color: black;
+vertical-align: bottom;
+height:auto;
+color: grey;
+font-size: 20px;
+}
+
 #navbarDropdown:hover{
     color: green;
 }
 
 #navbarDropdown{
-    color: white;
+    color: black;
 }
 
 #nav-item:hover{
     color: green;
-    
+
 }
 
 #nav-item{
-    color: white;
+    color: black;
 }
 
 body{
