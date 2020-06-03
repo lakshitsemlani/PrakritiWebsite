@@ -7,6 +7,10 @@ color: grey;
 font-size: 20px;
 }
 
+#mainNavbar{
+    background-color: white;
+}
+
 #navbarDropdown:hover{
     color: green;
     font-size: 1.15rem;
@@ -14,13 +18,14 @@ font-size: 20px;
 
 }
 
-#nav-item:hover{
+}
+#contactus:hover{
     color: green;
     font-size: 1.15rem;
     font-weight: 500;
 }
 
-#nav-item{
+.nav-item{
 	font-weight: 400;
 	line-height: 1.25;
 }
@@ -30,7 +35,7 @@ font-size: 20px;
 }
 
 @media (min-width: 1280px){
-	#nav-item{
+	.nav-item{
     	font-size: 1.15rem;
 	}
 	#navbarDropdown{
@@ -50,3 +55,10 @@ body{
 #Navbar-Brand:hover{
     color:green;
 }
+
+@media (max-width: 900px ){
+    .carousel-item{
+        height: 300px;
+    }
+}
+
