@@ -5,11 +5,9 @@ vertical-align: bottom;
 height:auto;
 color: grey;
 font-size: 20px;
+padding: 5px;
 }
 
-#mainNavbar{
-    background-color: white;
-}
 
 #navbarDropdown:hover{
     color: green;
@@ -18,24 +16,28 @@ font-size: 20px;
 
 }
 
-}
-#contactus:hover{
+#nav-item:hover{
     color: green;
     font-size: 1.15rem;
     font-weight: 500;
 }
+.navbar-nav > li{
+  margin-left:15px;
+  margin-right:15px;
+}
 
-.nav-item{
+#nav-item{
 	font-weight: 400;
-	line-height: 1.25;
+	line-height: 1.00;
 }
 #navbarDropdown{
     font-weight: 400;
     line-height: 1.25;
+		
 }
 
 @media (min-width: 1280px){
-	.nav-item{
+	#nav-item{
     	font-size: 1.15rem;
 	}
 	#navbarDropdown{
@@ -54,11 +56,5 @@ body{
 
 #Navbar-Brand:hover{
     color:green;
+		font-weight: 400px;
 }
-
-@media (max-width: 900px ){
-    .carousel-item{
-        height: 300px;
-    }
-}
-
