@@ -1,2 +1,1 @@
-# PrakritiWebsite
-Website design and development
+# PrakritiOrganicsWebsite
