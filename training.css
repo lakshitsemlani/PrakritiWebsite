@@ -142,7 +142,7 @@ width:100%;
   .topics li{
     font-family: 'Josefin Sans', sans-serif;
     font-weight: 300;
-    font-size: 0.95rem;
+    font-size: 1.15rem;
   }
 
   
@@ -157,7 +157,7 @@ width:100%;
         font-size:1.75rem;
     }
     .topics li{
-      font-size:0.90rem;
+      font-size:1.05rem;
     }
   }
   
@@ -169,7 +169,7 @@ width:100%;
       font-size:1.05rem;
     }
     .topics li{
-      font-size:0.90rem;
+      font-size:1rem;
     }
     .tagline{
         font-size:1.50rem;
@@ -192,6 +192,9 @@ width:100%;
     .tagline{
         font-size:1.30rem;
     }
+    .topics li{
+      font-size:1.20rem;
+    }
   }
 
   @media(max-width:570px){
@@ -206,5 +209,8 @@ width:100%;
     }
     .tagline{
         font-size:1.15rem;
+    }
+    .topics li{
+      font-size:1rem;
     }
   }
