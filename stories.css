@@ -225,6 +225,10 @@ body {
         font-size:300;
         font-size:1.25rem;
     }
+    .row ol{
+      font-size:300;
+      font-size:1.25rem;
+  }
     .shilpy .row h3{
         font-size: 1.5rem;
         font-weight:500;
@@ -250,6 +254,9 @@ body {
         .row ul{
             font-size:1.0rem;
         }
+        .row ol{
+          font-size:1.0rem;
+      }
         .shilpy .row h3{
             font-size: 1.20rem;
         }

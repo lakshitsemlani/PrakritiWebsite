@@ -140,7 +140,7 @@
   .ourstory .objectives{
     font-family: 'Josefin Sans', sans-serif;
     font-weight: 300;
-    font-size: 1.20rem;
+    font-size: 1.50rem;
   }
   
   @media(max-width:1470px){
@@ -151,7 +151,7 @@
       font-size:1.40rem;
     }
     .ourstory .objectives{
-      font-size:1.10rem;
+      font-size:1.40rem;
     }
   }
   
@@ -166,7 +166,7 @@
         font-size:1.05rem ;    
     }
     .ourstory .objectives{
-      font-size:0.85rem;
+      font-size:1.15rem;
     }
   }
   
@@ -199,7 +199,7 @@
         font-size: 1rem;
     }
     .ourstory .objectives{
-      font-size:0.95rem;
+      font-size:1rem;
     }
   }
   
